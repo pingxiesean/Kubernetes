@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/pause-amd64:3.1
+FROM k8s.gcr.io/kube-proxy-amd64:v1.11.3
 MAINTAINER ping.xie
