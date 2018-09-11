@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/coredns:1.1.3
+FROM k8s.gcr.io/pause-amd64:3.1
 MAINTAINER ping.xie
