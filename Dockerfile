@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/metrics-server-amd64:v0.3.0
+FROM k8s.gcr.io/heapster-amd64:v1.5.4
 MAINTAINER ping.xie@fixclever.com
