@@ -1,2 +1,2 @@
 FROM k8s.gcr.io/metrics-server-amd64:v0.3.0
-MAINTAINER ping.xie
+MAINTAINER ping.xie@fixclever.com
