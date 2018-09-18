@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/heapster-grafana-amd64:v5.0.4
+FROM k8s.gcr.io/cadvisor:v0.30.2
 MAINTAINER ping.xie@fixclever.com
