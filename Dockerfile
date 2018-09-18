@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/cadvisor:v0.30.2
+FROM gcr.io/google-containers/prometheus-to-sd:v0.2.6
 MAINTAINER ping.xie@fixclever.com
