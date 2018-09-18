@@ -1,2 +1,2 @@
-FROM gcr.io/google-containers/prometheus-to-sd:v0.2.6
+FROM gcr.io/google_containers/defaultbackend:1.4
 MAINTAINER ping.xie@fixclever.com
